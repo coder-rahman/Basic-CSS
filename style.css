@@ -4,12 +4,12 @@ body{
 dl,ol{
 		font-size:24px;
 	}
-.external{
+div p {
 	font-family: georgia;
 	font-size: 22px;
 	background-color: lightgray;
 	padding: 10px;
 }
-.external_span{
+div span{
 	color: red;
 }
